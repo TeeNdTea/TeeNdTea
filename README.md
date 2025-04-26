@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋 I'm Tasnim Faizah</h1>
 <h3 align="center">A sophomore at Brac University, currently pursuing my major in CSE.</h3>
 
-- 🔭 I’m currently working as a **Junior Research Assistant**
+- 🔭 I have worked as a **Junior Research Assistant**
 
 - 🌱 I’m currently working on **Front End Development**
 
