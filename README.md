@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi👋 I'm Tasnim Faizah</h1>
+<h1 align="center">Hi! I'm Tasnim Faizah</h1>
 <h3 align="center">A sophomore at Brac University, currently pursuing my major in CSE.</h3>
 
 - 🔭 I have worked as a **Junior Research Assistant**
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tasnim faizah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim faizah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tasnim-faizah-896558363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasnim faizah" height="30" width="40" /></a>
 <a href="https://instagram.com/doomed_tee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doomed_tee" height="30" width="40" /></a>
 </p>
 
