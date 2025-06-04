@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi%20There%20&desc=Welcome%20to%20my%20Github%20profile&descSize=-40&descAlign=65&descAlignY=80&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hi%20There%20&desc=Welcome%20to%20my%20Github%20profile&fontColor=FFFFFF&descSize=-40&descAlign=65&descAlignY=80&animation=twinkling"/>
 </p>
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/> -->
 <h2 align="center"> 👩🏻‍💻 &nbsp;A Little About Me </h2>
