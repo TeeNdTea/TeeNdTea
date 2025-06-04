@@ -1,4 +1,9 @@
-<h1 align="center">Hi!! I'm Tasnim Faizah</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0&text=Hi%20There%20&desc=Welcome%20to%20my%20Github%20profile&descSize=-36&descAlign=65&animation=twinkling"/>
+</p>
+
+
+<h1 align="center">I'm Tasnim Faizah</h1>
 <h3 align="center">A sophomore at Brac University, currently pursuing my major in CSE.</h3>
 
 - 🔭 I’m currently working as a **Junior Research Assistant**
