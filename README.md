@@ -28,10 +28,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/TeeNdTea/TeeNdTea">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=TeeNdTea&show_icons=true&theme=calm" />
+  </a>
+  <a href="https://github.com/TeeNdTea/TeeNdTea">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=TeeNdTea&layout=compact&show_icons=true&theme=calm&langs_count=8&card_width=320" />
+  </a>
+</div>
 
-<a href="https://github.com/TeeNdTea/TeeNdTea">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TeeNdTea&show_icons=true&theme=calm" />
-</a>
-<a href="https://github.com/TeeNdTea/TeeNdTea">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TeeNdTea&layout=compact&show_icons=true&theme=calm&langs_count=8&card_width=320" />
-</a>
