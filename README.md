@@ -9,11 +9,11 @@
 <br />
 <p align="center">
     <a href="mailto:tasi.fee@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/tasnim faizah"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/tasnim-faizah-896558363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://github.com/TeeNdTea"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://instagram.com/metamorf.png"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>  
 </p>
-Pursuing Bsc in CS in Brac University. Currently working on Data Science and Frontend Development with a foundation in STEM education and academic research. My journey spans from graphic design and frontend engineering to predictive modeling and research assistance, blending creativity with technical depth.
+Pursuing Bsc in CS at Brac University. Currently working on Data Science and Frontend Development with a foundation in STEM education and academic research. My journey spans from graphic design and frontend engineering to predictive modeling and research assistance, blending creativity with technical depth.
 </p>
 
 
