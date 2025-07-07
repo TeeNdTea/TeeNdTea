@@ -19,8 +19,8 @@ Pursuing Bsc in CS at Brac University. Currently working on Data Science and Fro
 
 ### 🚩 Github Stats
 
-<a href="https://github.com/TeeNdTea">
-  <img height="50%" width="34%" src="https://github-readme-stats.vercel.app/api?username=TeeNdTea&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&count_private=true" /><img height="50%" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeNdTea&hide=html&hide_title=false&hide_border=true&layout=compact&theme=catppuccin_mocha" /><img height="50%" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=TeeNdTea&hide=html&hide_title=false&hide_border=true&layout=compact&theme=catppuccin_mocha&" />
+<!-- <a href="https://github.com/TeeNdTea">
+  <img height="50%" width="34%" src="https://github-readme-stats.vercel.app/api?username=TeeNdTea&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&count_private=true" /><img height="50%" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeeNdTea&hide=html&hide_title=false&hide_border=true&layout=compact&theme=catppuccin_mocha" /><img height="50%" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=TeeNdTea&hide=html&hide_title=false&hide_border=true&layout=compact&theme=catppuccin_mocha&" /> -->
   
 </a>
   <br/>
